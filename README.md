@@ -93,7 +93,7 @@ This workflow supports:
 
 ---
 
-# 🔑 **Pipeline Components**
+#  **Pipeline Components**
 
 ## 1) **Sentinel-2 Preprocessing (GEE)**
 - QA60 cloud masking  
@@ -190,7 +190,7 @@ Risk = Hazard × Exposure × (1 + Vulnerability) × (1 − Ecosystem Services)
 
 ---
 
-# 🗺 **Final Output: Eco-DRR Risk Map**
+#  **Final Output: Eco-DRR Risk Map**
 The risk map integrates:
 - Topography  
 - Hydrology  
@@ -206,7 +206,7 @@ And provides **decision-ready spatial intelligence** for:
 
 ---
 
-# 📦 **Requirements**
+#  **Requirements**
 ```
 Python 3.9+
 torch
@@ -238,7 +238,7 @@ notebooks/5_EcoDRR_Master_GeoAI_Resilience_Model_v1.ipynb
 
 ---
 
-# ⚖️ License
+#  License
 MIT License
 
 ---
