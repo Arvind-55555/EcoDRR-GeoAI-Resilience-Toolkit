@@ -9,8 +9,7 @@ This repository implements a complete **Eco-DRR (Ecosystem-based Disaster Risk R
 - Ecosystem service assessment
 - DRR risk fusion modeling
 
-The pipeline operationalizes methodologies recommended in the  
-**UNEP Eco-DRR Source Book (2019)** — enabling spatial intelligence for resilience planning and Nature-based Solutions (NbS).
+The pipeline operationalizes methodologies recommended in the **UNEP Eco-DRR Source Book (2019)** — enabling spatial intelligence for resilience planning and Nature-based Solutions (NbS).
 
 ---
 
