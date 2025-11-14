@@ -51,10 +51,10 @@ This workflow supports:
             └──────────────────────┬─────────────────────────────┘
                                    │
                                    ▼
-                         **DRR Risk Fusion Model**
+                          DRR Risk Fusion Model
                                    │
                                    ▼
-                           **Eco-DRR Risk Map**
+                            Eco-DRR Risk Map
                     (NbS / Restoration Priority Zones)
 ```
 
@@ -64,9 +64,9 @@ This workflow supports:
 
 ```
 ├── notebooks/
-│   ├── EcoDRR_DRR_AdvancedModeling_v1.ipynb
-│   ├── EcoDRR_Integrated_GeoAI_RiskPipeline_v2.ipynb
-│   └── EcoDRR_Master_GeoAI_Resilience_Model_v1.ipynb
+│   ├── 3_EcoDRR_DRR_AdvancedModeling_v1.ipynb
+│   ├── 4_EcoDRR_Integrated_GeoAI_RiskPipeline_v2.ipynb
+│   └── 5_EcoDRR_Master_GeoAI_Resilience_Model_v1.ipynb
 │
 ├── data/
 │   ├── sent_rgb.tif
@@ -220,11 +220,11 @@ scipy
 
 ---
 
-# ▶ **Usage**
+# **Usage**
 
 ### 1. Run all steps in the Master Notebook:
 ```
-notebooks/EcoDRR_Master_GeoAI_Resilience_Model_v1.ipynb
+notebooks/5_EcoDRR_Master_GeoAI_Resilience_Model_v1.ipynb
 ```
 
 ### 2. OR run individual modules:
@@ -234,7 +234,7 @@ notebooks/EcoDRR_Master_GeoAI_Resilience_Model_v1.ipynb
 - Habitat quality  
 - Risk fusion  
 
-### 3. Outputs appear under `/mnt/data/`.
+### 3. Outputs appear under `/content/data/`.
 
 ---
 
